@@ -1,0 +1,17 @@
+Peak |r| = 6.06 V vs ADC range 2.4 V  (x2.5)
+Folds: |M_C| = 24 (theoretical reference N/3 = 85.3), detected by HPoF = 24
+NMSE  clipped ADC        :    -5.6 dB
+NMSE  modulo + unwrapping:  -307.7 dB
+NMSE  modulo + HPoF      :  -323.9 dB
+
+receiver                   R1 [m]     R2 [m]     |a1| [V]     |a2| [V] worst ghost [dB]
+ideal ADC                     3.0       30.0       6.0000       0.0600           -210.9
+clipped ADC                   3.0       15.0       2.9721       0.2696             22.3
+modulo, not unfolded         15.0       27.0       0.5692       0.5744             22.9
+modulo + HPoF                 3.0       30.0       6.0000       0.0600           -210.9
+TRUE                          3.0       30.0       6.0000       0.0600   (truth; ghost relative to the weak target)
+
+off-grid by [0.0 0.0] bin -> Lemma-1 error 7.4e-13, HPoF NMSE =  -323.9 dB
+off-grid by [0.0 0.5] bin -> Lemma-1 error 1.2e-03, HPoF NMSE =  -324.2 dB
+off-grid by [0.1 0.0] bin -> Lemma-1 error 1.1e-01, HPoF NMSE =  -324.5 dB
+off-grid by [0.3 0.3] bin -> Lemma-1 error 2.8e-01, HPoF NMSE =  -323.7 dB

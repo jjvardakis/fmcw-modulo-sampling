@@ -1,0 +1,6 @@
+experiment,completed,seconds,message
+exp1_clip_vs_modulo,1,25.312387357,completed
+exp2a_iq_imbalance,1,6.120379594,completed
+exp2b_noise_floor,1,8.843805292,completed
+exp3_snr_sweep,1,9.240093679,completed
+exp4_regime_map,1,7.240382314,completed

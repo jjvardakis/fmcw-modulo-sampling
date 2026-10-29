@@ -1,0 +1,11 @@
+Scene ranges: [8 30] m
+Gain sweep: gain dB, ordinary success percent, known-mismatch success percent
+         0  100.0000  100.0000
+    0.5000  100.0000  100.0000
+    1.0000  100.0000  100.0000
+
+Phase sweep: phase degrees, ordinary success percent, known-mismatch success percent
+     0   100   100
+     5   100   100
+    20   100   100
+

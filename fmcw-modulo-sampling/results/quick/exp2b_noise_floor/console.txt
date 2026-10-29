@@ -1,0 +1,1 @@
+expected floor gain of the modulo ADC: 20log10(FS/lam) = 8.0 dB (= 1.34 bits)

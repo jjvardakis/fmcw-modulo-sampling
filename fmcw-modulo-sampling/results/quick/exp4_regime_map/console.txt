@@ -1,0 +1,12 @@
+slow,  few folds :    9 trials, Itoh 1.00, HPoF 1.00
+fast,  few folds :    2 trials, Itoh 0.00, HPoF 1.00
+slow,  many folds:    1 trials, Itoh 1.00, HPoF 0.00
+fast,  many folds:    4 trials, Itoh 0.00, HPoF 0.00
+overall: Itoh 0.625, HPoF 0.688
+|M_C|/(N/3) in [0.00,0.25):    4 trials, Itoh 0.75, HPoF 1.00
+|M_C|/(N/3) in [0.25,0.50):    3 trials, Itoh 1.00, HPoF 1.00
+|M_C|/(N/3) in [0.50,0.75):    1 trials, Itoh 0.00, HPoF 1.00
+|M_C|/(N/3) in [0.75,1.00):    3 trials, Itoh 1.00, HPoF 1.00
+|M_C|/(N/3) in [1.00,1.50):    2 trials, Itoh 0.50, HPoF 0.00
+|M_C|/(N/3) in [1.50,3.00):    2 trials, Itoh 0.00, HPoF 0.00
+|M_C|/(N/3) in [3.00,Inf):    1 trials, Itoh 0.00, HPoF 0.00

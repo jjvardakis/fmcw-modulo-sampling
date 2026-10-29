@@ -1,0 +1,6 @@
+level 2.5 lam, SNR 20 dB: HPoF exact-unfolding rate 0.00
+level 2.5 lam, SNR 40 dB: HPoF exact-unfolding rate 1.00
+level 2.5 lam, SNR 60 dB: HPoF exact-unfolding rate 1.00
+level 4.0 lam, SNR 20 dB: HPoF exact-unfolding rate 0.00
+level 4.0 lam, SNR 40 dB: HPoF exact-unfolding rate 0.00
+level 4.0 lam, SNR 60 dB: HPoF exact-unfolding rate 0.50
