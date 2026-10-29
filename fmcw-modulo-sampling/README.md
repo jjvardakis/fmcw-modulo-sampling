@@ -81,4 +81,4 @@ The figures use the experiment layouts. They contain the data behind the report,
 
 T. Feuillen and A. Bhandari, “Quadrature Radars Naturally Benefit from Unlimited Sensing,” IEEE Statistical Signal Processing Workshop, 2025, pp. 251–255. DOI: [10.1109/SSP64130.2025.11073462](https://doi.org/10.1109/SSP64130.2025.11073462).
 
-This repository is a student simulation project based on the supplied MATLAB implementation. It is not an official release by the paper's authors. See [CITATION.md](CITATION.md) for how to reference the uploaded repository in the report.
+This repository is a student simulation project based on the supplied MATLAB implementation. It is not an official release by the paper's authors.
